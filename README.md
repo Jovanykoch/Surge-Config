@@ -7,10 +7,6 @@
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
 
-# Surge-Config
-
-这是一个用于 Surge 5（或 “Surge5”） 的自用配置仓库，适用于 Linux 等环境。你可以将本仓库中的配置导入 Surge，以便快速使用。但请 **务必根据你的网络环境与节点情况进行修改**。
-
 ---
 
 ## 📦 仓库结构
