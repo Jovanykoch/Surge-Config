@@ -10,7 +10,7 @@
 ---
 
 ### 📦 Warehouse structure
- （Assume the structure and change it according to the actual situation.）
+### Assume the structure and change it according to the actual situation.
 
 
 `⚠️注意事项`
