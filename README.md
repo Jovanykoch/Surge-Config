@@ -22,7 +22,6 @@
 
 
 
-![示例图片](https://example.com/path/to/image.png)
 
 
 
