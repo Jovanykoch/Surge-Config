@@ -10,10 +10,10 @@
 ---
 
 ### 📦 Warehouse structure
-### Assume the structure and change it according to the actual situation.
+### Assume the structure and change it according to the actual situation
 
 
-`⚠️Notes`
+`⚠️  Notes`
 * This configuration is for personal use.
 * The author is not responsible for any problems caused by the use of this configuration.
 
