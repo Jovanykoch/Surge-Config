@@ -9,8 +9,8 @@
 
 ---
 
-## 📦 仓库结构
-（假设结构，视实际改动）
+## 📦 Warehouse structure
+（Assume the structure and change it according to the actual situation.）
 
 
 `⚠️注意事项`
