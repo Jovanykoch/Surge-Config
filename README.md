@@ -14,7 +14,7 @@
 
 
 `⚠️Notes`
-* 本配置为个人自用
+* This configuration is for personal use.
 * 作者不对使用本配置可能导致的任何问题负责
 
 ![版本](https://img.shields.io/badge/version-1.0.0-blue)
