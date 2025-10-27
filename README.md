@@ -13,7 +13,7 @@
 ### Assume the structure and change it according to the actual situation.
 
 
-`⚠️注意事项`
+`⚠️Notes`
 * 本配置为个人自用
 * 作者不对使用本配置可能导致的任何问题负责
 
