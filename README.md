@@ -21,6 +21,6 @@
 ![许可证](https://img.shields.io/badge/license-MIT-green)
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
